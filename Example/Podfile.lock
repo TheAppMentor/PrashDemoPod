@@ -1,0 +1,16 @@
+PODS:
+  - PrashDemoPod (0.1.0)
+
+DEPENDENCIES:
+  - PrashDemoPod (from `../`)
+
+EXTERNAL SOURCES:
+  PrashDemoPod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PrashDemoPod: 7545ef07fa60f1c1371ce51b7127d272e891f632
+
+PODFILE CHECKSUM: 6ff3cfad24a2be339df917bf88bb710fe4c22846
+
+COCOAPODS: 1.11.3
